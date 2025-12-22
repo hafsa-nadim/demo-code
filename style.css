@@ -1,0 +1,12 @@
+body{
+  background-color: beige;
+  text-align: center;
+}
+img{
+  border: 20px burlywood solid;
+}
+h1{
+  color: rgb(171, 73, 3);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 45px;
+}
